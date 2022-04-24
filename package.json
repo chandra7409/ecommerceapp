@@ -1,0 +1,27 @@
+{
+    "name": "ecomerce",
+    "version": "1.0.0",
+    "description": "this is an ecommerce",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "jest"
+    },
+    "keywords": [
+        "ecommerce",
+        "products",
+        "user"
+    ],
+    "author": "Tilak chandra",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "express": "^4.17.3",
+        "jsonwebtoken": "^8.5.1",
+        "mysql2": "^2.3.3",
+        "sequelize": "^6.17.0"
+    },
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
