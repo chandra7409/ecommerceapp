@@ -16,13 +16,14 @@ Separate branch for separare class. For example, code to be taugh in the session
 is available in the branch name _session1_
 
 
-## Tech
+## Tech  Stack Knowledge
 - Node.js
 - Express.js
 - Sequelize ( ORM )
 - MySQL
 - JWT
 - Jest
+
 -postman
 ## Installation
 
