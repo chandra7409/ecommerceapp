@@ -1,4 +1,4 @@
-# Node.js based eCommerceApp
+# Node.js based e-commerceApp
 ## _Backend code base_
 
 This eCommerceApp will be built as the part of first app building excercise in module 1 of the Relevel 
