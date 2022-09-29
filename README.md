@@ -23,7 +23,7 @@ is available in the branch name _session1_
 - MySQL
 - JWT
 - Jest
-
+-postman
 ## Installation
 
 this app requires [Node.js](https://nodejs.org/) v14+ to run.
